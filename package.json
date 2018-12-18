@@ -1,5 +1,5 @@
 {
-  "name": "pixi-typescript",
+  "name": "@types/pixi.js",
   "version": "4.8.3",
   "description": "Typescript Declarations for pixi.js",
   "main": "pixi.js.d.ts",
